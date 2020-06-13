@@ -1,0 +1,20 @@
+{
+  "name": "yoorzjs",
+  "version": "1.0.0",
+  "description": "Yoorz JS Using Blockchain",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Suresh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mocha": "^8.0.1",
+    "truffle": "^5.1.30",
+    "web3": "^1.2.9"
+  }
+}
