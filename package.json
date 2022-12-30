@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "truffle": "^5.1.30",
     "web3": "^1.2.9"
   }
